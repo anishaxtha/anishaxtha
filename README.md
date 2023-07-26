@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **python and js projects**
 
-- 💬 Ask me about **python, data structure and algorithm, Django**
+- 💬 Ask me about **python, data structure and algorithm, Django, SQL**
 
 - 📫 How to reach me **ianishaxthaaa@gmail.com**
 
