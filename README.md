@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **HTML5,CSS3, JavaScript, python ,React**
+- 💬 Ask me about **HTML5,CSS3, JavaScript, Python ,React**
 
 - 📫 How to reach me **anishanayaju26@gmail.com**
 
