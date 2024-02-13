@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and exploring  **Web development**
 
-- 👯 I’m looking to collaborate on **JavaScript projects**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 💬 Ask me about **React, data structure and algorithm, Python**
 
