@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning and exploring  **Web development**
 
-- 👯 I’m looking to collaborate on **python and js projects**
+- 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 💬 Ask me about **python, data structure and algorithm, Django, SQL**
+- 💬 Ask me about **React, data structure and algorithm, Python**
 
-- 📫 How to reach me **ianishaxthaaa@gmail.com**
+- 📫 How to reach me **anishanayaju26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
