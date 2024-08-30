@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning and exploring **Web Development**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **React Framework and Next Js**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
