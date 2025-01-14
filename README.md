@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, SQL**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
 - 💬 Ask me about **JavaScript, TypeScript, Python, React**
 
 - 📫 How to reach me **anishanayaju26@gmail.com**
