@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning and exploring **Web Development**
 
-- 🌱 I’m currently learning **React Framework and Next Js**
+- 🌱 I’m currently learning **Python, SQL**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **HTML5,CSS3, JavaScript, TypeScript, Python ,React**
+- 💬 Ask me about **JavaScript, TypeScript, Python, React**
 
 - 📫 How to reach me **anishanayaju26@gmail.com**
 
